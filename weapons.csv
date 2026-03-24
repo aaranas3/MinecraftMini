@@ -1,0 +1,10 @@
+Diamond Sword,25,150.00,10
+Netherite Axe,abc,250.00,5           // Quality is invalid (non-numeric)
+Enchanted Bow,45,notanumber,12       // Cost is invalid
+Blaze Rod,30,200.00,-5               // Inventory is negative
+Trident,,150.00,3                    // Missing quality
+Gold Pickaxe,40,90.00                // Only 3 values (invalid format)
+    ,50,100.00,2                     // Type is whitespace only
+Iron Shovel,80,50.00,ten             // Inventory is non-numeric
+                                     // Empty line
+Wooden Hoe,15,0.5,2                  // Cost too low (< 1)
