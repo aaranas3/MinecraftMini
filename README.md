@@ -43,3 +43,9 @@ A **console-based weapon inventory management system** inspired by Minecraft-sty
    ```bash
    git clone https://github.com/aaranas3/MinecraftMini.git
    cd MinecraftMini
+
+Below is an animated GIF demonstrating the complete workflow of the MinecraftMini application in action:
+
+<img width="1408" height="768" alt="ezgif com-animated-gif-maker" src="https://github.com/user-attachments/assets/25061476-6ae3-4e8a-9b99-c96491a0e6e7" />
+
+The GIF shows the full user journey: launching the app, adding a new weapon (Diamond Sword with 75 damage and 450 durability), viewing all weapons in a formatted table, updating weapon stats, deleting a weapon, and finally saving data to CSV before exiting.
